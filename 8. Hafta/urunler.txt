@@ -1,0 +1,4 @@
+çikolata:15
+Gofret:120
+sakız:16
+süt:22
