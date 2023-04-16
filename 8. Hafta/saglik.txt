@@ -1,0 +1,24 @@
+Kullanıcı adıselin engin
+Kullanıcının yaş,kilo ve boy bilgisi 25, 53.0, 1.6
+Kullanıcının vücut kitle indexi 20.7
+değer aralığı normal kilolu
+Oluşturma tarihi Mon Apr 17 00:16:41 2023
+********************
+Kullanıcı adısibel engin
+Kullanıcının yaş,kilo ve boy bilgisi 51, 62.0, 1.7
+Kullanıcının vücut kitle indexi 21.5
+değer aralığı normal kilolu
+Oluşturma tarihi Mon Apr 17 00:16:59 2023
+********************
+KullanÄ±cÄ± adÄ±hÃ¼seyin engin
+KullanÄ±cÄ±nÄ±n yaÅŸ,kilo ve boy bilgisi 60, 85.0, 1.78
+KullanÄ±cÄ±nÄ±n vÃ¼cut kitle indexi 26.8
+deÄŸer aralÄ±ÄŸÄ± fazla kilolu
+OluÅŸturma tarihi Mon Apr 17 00:18:09 2023
+********************
+KullanÄ±cÄ± adÄ±: deniz engin
+KullanÄ±cÄ±nÄ±n yaÅŸ,kilo ve boy bilgisi: 17, 65.0, 1.8
+KullanÄ±cÄ±nÄ±n vÃ¼cut kitle indexi: 20.1
+deÄŸer aralÄ±ÄŸÄ±: normal kilolu
+OluÅŸturma tarihi: Mon Apr 17 01:34:54 2023
+********************
